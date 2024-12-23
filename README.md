@@ -1,6 +1,6 @@
 # Intelligent Interaction Platform for Personalized Digital Tutor: Advancing Empathetic and Adaptive Learning Experiences
 
-[Demo](https://github.com/BAOOOOOM/) [Paper](https://github.com/BAOOOOOM/) 
+[Demo](https://github.com/BAOOOOOM/digital_human/) [Paper](https://github.com/BAOOOOOM/digital_human/) 
 
 A virtual digital tutor platform with intelligent, personalized, and high-quality interactive capabilities. The core technologies include: 1. Profile Diagnosis and Evolution; 2. Knowledge Reasoning and Updating; 3. Agent Service Construction; 4. Intelligent Empathetic Interaction.
 
