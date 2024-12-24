@@ -73,12 +73,3 @@ Moreover, the platform integrates digital human visualization, emotional speech 
 > > + [Adaptive Graph Attention Network with Temporal Fusion for Micro-Expressions Recognition](https://ieeexplore.ieee.org/abstract/document/10219571)
 > > + [Graph Adaptive Semantic Transfer for Cross-domain Sentiment Classification](https://dl.acm.org/doi/pdf/10.1145/3477495.3531984)
 
-## Contributors
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://github.com/orgs/BDAA-CogAI/people">
-  <img src="https://contrib.rocks/image?repo=BDAA-CogAI" />
-</a>
-
-We thank all the contributors to this project, more contributors are welcome!
