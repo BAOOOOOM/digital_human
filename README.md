@@ -3,9 +3,9 @@
 ------
 
 <p align="center">
-  <a href="https://github.com/BAOOOOOM/digital_human/">🤖Demo</a> •
-  <a href="https://github.com/BAOOOOOM/digital_human/">🧰Web</a> •
-  <a href="https://github.com/BAOOOOOM/digital_human/">📄Paper</a> •
+  🤖<a href="https://github.com/BAOOOOOM/digital_human/">Demo</a> •
+  🧰<a href="https://github.com/BAOOOOOM/digital_human/">Web</a> •
+  📄<a href="https://github.com/BAOOOOOM/digital_human/">Paper</a>
 </p>
 
 
