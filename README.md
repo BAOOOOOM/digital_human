@@ -11,7 +11,7 @@
 
 A virtual digital tutor platform with intelligent, personalized, and high-quality interactive capabilities. 
 
-## core technology
+## Core technology
 
 The core technologies include: 1. Profile Diagnosis and Evolution; 2. Knowledge Reasoning and Updating; 3. Agent Service Construction; 4. Intelligent Empathetic Interaction.
 
@@ -79,4 +79,4 @@ Moreover, the platform integrates digital human visualization, emotional speech 
 
 ## Featured Functions
 
-
+The featured functions include: 1. Intelligent topic extension; 2. Precise construction of user profiles; 3. Voice interaction; 4. Video interaction.
