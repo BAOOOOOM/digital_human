@@ -9,11 +9,15 @@
 </p>
 
 
-A virtual digital tutor platform with intelligent, personalized, and high-quality interactive capabilities. The core technologies include: 1. Profile Diagnosis and Evolution; 2. Knowledge Reasoning and Updating; 3. Agent Service Construction; 4. Intelligent Empathetic Interaction.
+A virtual digital tutor platform with intelligent, personalized, and high-quality interactive capabilities. 
+
+## core technology
+
+The core technologies include: 1. Profile Diagnosis and Evolution; 2. Knowledge Reasoning and Updating; 3. Agent Service Construction; 4. Intelligent Empathetic Interaction.
 
 ![image](https://github.com/user-attachments/assets/1c87b981-bee7-4efc-a1a3-92a721b6b72a)
 
-## Profile Diagnosis and Evolution
+### Profile Diagnosis and Evolution
 
 In response to changes in cognitive characteristics at different stages, we diagnose the user’s cognitive level by acquiring long-term interaction records, mining behavioral pattern data, and performing knowledge tracking.
 
@@ -30,7 +34,7 @@ Finally, this section dynamically updates the learner profile, optimizes learnin
 > > + [HeckmanCD: Exploiting Selection Bias in Cognitive Diagnosis](https://dl.acm.org/doi/10.1145/3627673.3679648)
 > > + [Zero-1-to-3: Domain-level Zero-shot Cognitive Diagnosis via One Batch of Early-bird Students towards Three Diagnostic Objective](https://ojs.aaai.org/index.php/AAAI/article/view/28684/29327)
 
-## Knowledge Reasoning and Updating
+### Knowledge Reasoning and Updating
 
 To enhance the credibility of intellectual reasoning, an innovative approach is proposed that  combines domain knowledge inference and verification, enhancing  the reliability of inference results through continuous discovery  and updating of domain knowledge.
 
@@ -43,7 +47,7 @@ This approach constructs a high-quality disciplinary knowledge system, providing
 > > + [Guiding Mathematical Reasoning via Mastering Commonsense Formula Knowledge](http://staff.ustc.edu.cn/~huangzhy/files/papers/JiayuLiu-KDD2023.pdf)
 > > + [Enhancing Hierarchical Text Classification through Knowledge Graph Integration](https://aclanthology.org/2023.findings-acl.358/)
 
-## Agent Service Construction
+### Agent Service Construction
 
 To enhance the effectiveness of large model-based intelligent agents in personalized teaching, this platform integrates a multi-turn dialogue intelligent service framework, combining domain knowledge and learner profiles to support intelligent agents in making precise decisions during the teaching process.
 
@@ -56,7 +60,7 @@ The platform allows the digital teacher to dynamically adjust teaching content b
 > > + [GenAL: Generative Agent for Adaptive Learning](https://github.com/NirDiamant/GenAI_Agents)
 > > + [COMI: COrrect and MItigate Shortcut Learning Behavior in Deep Neural Networks](https://dl.acm.org/doi/10.1145/3626772.3657729)
 
-## Intelligent Empathetic Interaction 
+### Intelligent Empathetic Interaction 
 
 To address the issue of unnatural human-computer interaction, we employ emotional cognition technology to perform real-time analysis and assessment of learners’ emotions.
 
@@ -72,4 +76,7 @@ Moreover, the platform integrates digital human visualization, emotional speech 
 > > + [DFME: A New Benchmark for Dynamic Facial Micro-Expression Recognition](https://ieeexplore.ieee.org/document/10354506)
 > > + [Adaptive Graph Attention Network with Temporal Fusion for Micro-Expressions Recognition](https://ieeexplore.ieee.org/abstract/document/10219571)
 > > + [Graph Adaptive Semantic Transfer for Cross-domain Sentiment Classification](https://dl.acm.org/doi/pdf/10.1145/3477495.3531984)
+
+## Featured Functions
+
 
