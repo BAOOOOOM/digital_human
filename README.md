@@ -79,4 +79,24 @@ Moreover, the platform integrates digital human visualization, emotional speech 
 
 ## Featured Functions
 
-The featured functions include: 1. Intelligent topic extension; 2. Precise construction of user profiles; 3. Voice interaction; 4. Video interaction.
+Our digital teachers have the ability to be thoughtfully customized, interact with emotional resonance, and provide in-depth professional communication, offering a new experience of fused voice-image reinvented interaction. The featured functions include: 1. Custom session; 2. Emotional resonance; 3. Intelligent interaction; 4. Domain dialogue; 5. Multimodal fusion.
+
+### Custom session
+
+Our digital tutor can accurately identify your needs and tailor a unique conversational experience, making each interaction more relevant to your unique preferences and interests.
+
+### Emotional resonance
+
+Our digital tutor does not simply provide a response, but one that contains deep understanding and emotional resonance. With every conversation, it listens to you and empathizes, thus conveying warmth and care.
+
+### Intelligent interaction
+
+By intelligently summarizing historical information through multiple rounds of conversation, it continues to evolve the content of the conversation to provide more accurate and personalized answer support, making communication more in-depth and coherent.
+
+### Domain dialogue
+
+Our digital tutor support users to upload and customize their exclusive knowledge base, combining professional content in the industry or personal field to provide accurate and in-depth Q&A in the field, enhancing the professionalism and practicality of the conversation.
+
+### Multimodal fusion
+
+Our digital tutor is able to break through the limitations of a single text and blend voice and video to provide a more intuitive and vivid interactive experience. Let the conversation is not only limited to text, but also full of multi-dimensional perception of sound and image.
