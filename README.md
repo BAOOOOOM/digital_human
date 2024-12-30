@@ -81,7 +81,7 @@ Moreover, the platform integrates digital human visualization, emotional speech 
 
 Our digital teachers have the ability to be thoughtfully customized, interact with emotional resonance, and provide in-depth professional communication, offering a new experience of fused voice-image reinvented interaction. The featured functions include: 1. Custom session; 2. Emotional resonance; 3. Intelligent interaction; 4. Domain dialogue; 5. Multimodal fusion.
 
-### Custom session
+### Custom Session
 
 Based on user profile building technology, our digital tutor can accurately identify your needs and tailor a unique conversational experience, making each interaction more relevant to your unique preferences and interests. 
 > + Multimodal feature fusion: Integrating text dialogues with multimodal information such as tone of voice and emoticons, we comprehensively capture the user's emotions and attitudes to build a richer and more three-dimensional user profile, providing a solid foundation for personalized services.
@@ -89,28 +89,28 @@ Based on user profile building technology, our digital tutor can accurately iden
 > + Fine-grained labeling system: Establish a fine-grained user labeling system covering multi-dimensional features such as occupational backgrounds, interests, behavioral patterns, etc., and improve the user profile through continuous learning.
 > + User profiles to improve the accuracy and relevance of personalized recommendations.
 
-### Emotional resonance
+### Emotional Resonance
 
 Our digital tutor does not simply provide a response, but one that contains deep understanding and emotional resonance. With every conversation, it listens to you and empathizes, thus conveying warmth and care. 
 > + Multimodal sentiment analysis. Our digital tutor effectively recognizes the user's emotional state through multimodal sentiment analysis, which helps to generate more vivid and intimate interactive responses.
 > + Emotional empathy generation. Through the multi-agent interaction method, we realize the refinement of the response content, so as to make the response more intimate and convey warmth and care.
 
 
-### Intelligent interaction
+### Intelligent Interaction
 
 By intelligently summarizing historical information through multiple rounds of conversation, it continues to evolve the content of the conversation to provide more accurate and personalized answer support, making communication more in-depth and coherent. 
 > + Semantic correlation continuation: Using advanced semantic understanding models, we analyze the logical relationships of historical conversations to generate new topics that are highly relevant and natural. For example, in a travel conversation, the system intelligently recommends local niche attractions or specialties to ensure that the conversation extends coherently within the same topic area.
 > + Mining and Guiding Interests: With the help of machine learning algorithms, the system identifies the interests shown by the users in historical conversations, and proactively guides the conversation to develop in depth in the direction of these interests. For example, if photography is detected as a hobby, the system will introduce topics such as photography skills and equipment discussion to enhance the user's enthusiasm and engagement.
 > + Personalized Content Recommendation: Based on the user's history of conversations, the system will accurately push personalized content and suggestions. For example, recommending customized itineraries based on user's travel preferences, or recommending books and articles based on reading habits, to enhance the relevance and attractiveness of the conversation.
 
-### Domain dialogue
+### Domain Dialogue
 
 Our digital tutor support users to upload and customize their exclusive knowledge base, combining professional content in the industry or personal field to provide accurate and in-depth Q&A in the field, enhancing the professionalism and practicality of the conversation. 
 > + Retrieval Augmented Generation: Our digital tutor first performs deep semantic parsing of input questions using a large language model to accurately capture user intent and key content. Then, through a matching algorithm based on similarity calculation, we efficiently correlate the question with the pre-constructed knowledge base and accurately extract highly relevant document fragments. Finally, natural language answers are dynamically generated based on the extracted relevant document segments to ensure the accuracy of content and fluency of language expression.
 > + Intelligent tool invocation. Our digital tutor is able to seamlessly access external data sources through API interfaces to ensure real-time access to the latest dynamic information, and support the expansion of multiple types of tools, including news and information, stock market quotes, public transportation, weather forecasts, and other real-time data, to comprehensively cover the needs of users.
 
 
-### Multimodal fusion
+### Multimodal Fusion
 
 Our digital tutor is able to break through the limitations of a single text and blend voice and video to provide a more intuitive and vivid interactive experience. Let the conversation is not only limited to text, but also full of multi-dimensional perception of sound and image.
 
