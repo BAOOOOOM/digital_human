@@ -4,7 +4,7 @@
 
 <p align="center">
   🤖<a href="https://github.com/BAOOOOOM/digital_human/">Demo</a> •
-  🧰<a href="https://github.com/BAOOOOOM/digital_human/">Web</a> •
+  🧰<a href="http://8.154.47.237:8766/#/">Web</a> •
   📄<a href="https://github.com/BAOOOOOM/digital_human/">Paper</a>
 </p>
 
