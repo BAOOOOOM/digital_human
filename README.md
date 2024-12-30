@@ -83,20 +83,43 @@ Our digital teachers have the ability to be thoughtfully customized, interact wi
 
 ### Custom session
 
-Our digital tutor can accurately identify your needs and tailor a unique conversational experience, making each interaction more relevant to your unique preferences and interests.
+Based on user profile building technology, our digital tutor can accurately identify your needs and tailor a unique conversational experience, making each interaction more relevant to your unique preferences and interests. 
+> + Multimodal feature fusion: Integrating text dialogues with multimodal information such as tone of voice and emoticons, we comprehensively capture the user's emotions and attitudes to build a richer and more three-dimensional user profile, providing a solid foundation for personalized services.
+> + Dynamic feature update: Monitor the content of each round of conversation in real time, quickly capture the user's interests, needs and emotional changes, adjust and optimize the user profile in time, and ensure that the answers provided always match the user's current needs.
+> + Fine-grained labeling system: Establish a fine-grained user labeling system covering multi-dimensional features such as occupational backgrounds, interests, behavioral patterns, etc., and improve the user profile through continuous learning.
+> + User profiles to improve the accuracy and relevance of personalized recommendations.
 
 ### Emotional resonance
 
-Our digital tutor does not simply provide a response, but one that contains deep understanding and emotional resonance. With every conversation, it listens to you and empathizes, thus conveying warmth and care.
+Our digital tutor does not simply provide a response, but one that contains deep understanding and emotional resonance. With every conversation, it listens to you and empathizes, thus conveying warmth and care. 
+> + Multimodal sentiment analysis. Our digital tutor effectively recognizes the user's emotional state through multimodal sentiment analysis, which helps to generate more vivid and intimate interactive responses.
+> + Emotional empathy generation. Through the multi-agent interaction method, we realize the refinement of the response content, so as to make the response more intimate and convey warmth and care.
+
 
 ### Intelligent interaction
 
-By intelligently summarizing historical information through multiple rounds of conversation, it continues to evolve the content of the conversation to provide more accurate and personalized answer support, making communication more in-depth and coherent.
+By intelligently summarizing historical information through multiple rounds of conversation, it continues to evolve the content of the conversation to provide more accurate and personalized answer support, making communication more in-depth and coherent. 
+> + Semantic correlation continuation: Using advanced semantic understanding models, we analyze the logical relationships of historical conversations to generate new topics that are highly relevant and natural. For example, in a travel conversation, the system intelligently recommends local niche attractions or specialties to ensure that the conversation extends coherently within the same topic area.
+> + Mining and Guiding Interests: With the help of machine learning algorithms, the system identifies the interests shown by the users in historical conversations, and proactively guides the conversation to develop in depth in the direction of these interests. For example, if photography is detected as a hobby, the system will introduce topics such as photography skills and equipment discussion to enhance the user's enthusiasm and engagement.
+> + Personalized Content Recommendation: Based on the user's history of conversations, the system will accurately push personalized content and suggestions. For example, recommending customized itineraries based on user's travel preferences, or recommending books and articles based on reading habits, to enhance the relevance and attractiveness of the conversation.
 
 ### Domain dialogue
 
-Our digital tutor support users to upload and customize their exclusive knowledge base, combining professional content in the industry or personal field to provide accurate and in-depth Q&A in the field, enhancing the professionalism and practicality of the conversation.
+Our digital tutor support users to upload and customize their exclusive knowledge base, combining professional content in the industry or personal field to provide accurate and in-depth Q&A in the field, enhancing the professionalism and practicality of the conversation. 
+> + Retrieval Augmented Generation: Our digital tutor first performs deep semantic parsing of input questions using a large language model to accurately capture user intent and key content. Then, through a matching algorithm based on similarity calculation, we efficiently correlate the question with the pre-constructed knowledge base and accurately extract highly relevant document fragments. Finally, natural language answers are dynamically generated based on the extracted relevant document segments to ensure the accuracy of content and fluency of language expression.
+> + Intelligent tool invocation. Our digital tutor is able to seamlessly access external data sources through API interfaces to ensure real-time access to the latest dynamic information, and support the expansion of multiple types of tools, including news and information, stock market quotes, public transportation, weather forecasts, and other real-time data, to comprehensively cover the needs of users.
+
 
 ### Multimodal fusion
 
 Our digital tutor is able to break through the limitations of a single text and blend voice and video to provide a more intuitive and vivid interactive experience. Let the conversation is not only limited to text, but also full of multi-dimensional perception of sound and image.
+
+Using powerful speech recognition and speech synthesis technologies, our digital tutor is able to understand the voice of the user and talk to the user in their own voice. 
+> + High accuracy: Modern speech recognition technology enables highly accurate speech-to-text conversion and reduces misrecognition.
+> + Smooth voice: The digital tutor can use natural speech synthesis technology to generate smooth and emotional voice, making communication more vivid.
+> + Customized voice: The voice of the digital tutor can be customized according to the needs of the user, including pitch and emotional color.
+
+At the same time, according to the content of the real-time dialog, our digital tutor can present rich expressions and actions, so that users can get a more vivid, interesting and intimate interactive experience. 
+> + Emotion Sensing: The digital human is equipped with emotion-sensing technology, which can automatically adjust expressions and actions according to the content and tone of the dialog, making the communication more vivid and real.
+> + Emotional style: The digital tutor can adjust the way of emotional expression according to the user's needs, providing a communication experience that better meets the user's expectations.
+> + Variety of expressions: The digital tutor is equipped with a rich library of expressions, which enables it to choose the appropriate expressions in different situations and enhance the emotional depth of communication.
