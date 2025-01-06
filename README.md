@@ -114,9 +114,10 @@ By intelligently summarizing historical information through multiple rounds of c
 
 ### Domain Dialogue
 
+Our digital tutor support users to upload and customize their exclusive knowledge base, combining professional content in the industry or personal field to provide accurate and in-depth Q&A in the field, enhancing the professionalism and practicality of the conversation. 
+
 ![image](https://github.com/user-attachments/assets/1a6ca5bd-5f83-4559-81ac-cf3cb59550cf)
 
-Our digital tutor support users to upload and customize their exclusive knowledge base, combining professional content in the industry or personal field to provide accurate and in-depth Q&A in the field, enhancing the professionalism and practicality of the conversation. 
 > + Retrieval Augmented Generation: Our digital tutor first performs deep semantic parsing of input questions using a large language model to accurately capture user intent and key content. Then, through a matching algorithm based on similarity calculation, we efficiently correlate the question with the pre-constructed knowledge base and accurately extract highly relevant document fragments. Finally, natural language answers are dynamically generated based on the extracted relevant document segments to ensure the accuracy of content and fluency of language expression.
 > + Intelligent tool invocation. Our digital tutor is able to seamlessly access external data sources through API interfaces to ensure real-time access to the latest dynamic information, and support the expansion of multiple types of tools, including news and information, stock market quotes, public transportation, weather forecasts, and other real-time data, to comprehensively cover the needs of users.
 
