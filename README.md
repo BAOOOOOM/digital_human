@@ -137,3 +137,7 @@ At the same time, according to the content of the real-time dialog, our digital 
 > + Emotion Sensing: The digital human is equipped with emotion-sensing technology, which can automatically adjust expressions and actions according to the content and tone of the dialog, making the communication more vivid and real.
 > + Emotional style: The digital tutor can adjust the way of emotional expression according to the user's needs, providing a communication experience that better meets the user's expectations.
 > + Variety of expressions: The digital tutor is equipped with a rich library of expressions, which enables it to choose the appropriate expressions in different situations and enhance the emotional depth of communication.
+
+## TODO
+> + Add support for more tools.
+> + Real-time Sentiment Analysis with Camera Interaction.
